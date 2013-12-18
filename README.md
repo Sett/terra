@@ -1,4 +1,4 @@
-terra
+Teрритория
 =====
 
 table game
